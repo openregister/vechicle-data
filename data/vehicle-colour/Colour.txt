@@ -1,0 +1,21 @@
+Code	Name
+S	Beige
+P	Black
+B	Bronze
+A	Brown
+V	Cream
+G	Gold
+H	Green
+L	Grey
+T	Maroon
+K	Purple
+E	Orange
+D	Pink
+C	Red
+M	Silver
+U	Turquoise
+N	White
+F	Yellow
+R	Multi-colour
+W	Not Stated
+J	Blue

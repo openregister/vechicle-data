@@ -1,0 +1,11 @@
+﻿code	name	description
+A	2-wheel	2 wheels 
+B	3-wheel	3 wheels (Tricycle)
+C	2 axle rigid body	2 “axle” rigid chassis/body (This applies to all 4-wheeled cars, taxis & light commercials)
+D	3 axle rigid body	3 “axle” rigid chassis/body
+E	multi-axle rigid	4 or more “axle” rigid chassis
+G	2-axle & artic	2 axle tractor with articulated trailer
+H	3-axle & artic	3 axle tractor with articulated trailer
+J	multi-axle & artic	4 or more axle tractor with articulated trailer
+K	crawler	Tracklaying Vehicle
+Y	non-standard	Non-standard Wheelplan

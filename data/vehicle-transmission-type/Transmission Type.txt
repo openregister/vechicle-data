@@ -1,0 +1,3 @@
+code	name
+a	Automatic
+m	Manual

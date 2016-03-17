@@ -1,0 +1,103 @@
+code	name
+01	"2 Door Saloon"
+02	"4 Door Saloon"
+03	"Saloon (for information only, no longer used)"
+04	Convertible
+05	Coupe
+06	Estate
+07	Taxi
+09	Tricycle
+10	"Goods Tricycle"
+11	Hearse
+12	Limousine
+13	"3 Door Hatchback"
+14	"5 Door Hatchback"
+18	Motorcycle
+19	"Motorcycle Combination "
+21	Sports
+22	"Panel Van"
+23	"Box Van"
+24	"Car Derived Van"
+25	"Light Van"
+26	"Pick Up"
+27	"Motor Home/Caravan"
+28	"Van/Side Windows "
+30	Pantechnicon
+31	"Luton Van "
+32	"Insulated Van "
+33	"Glass Carrier"
+34	"Specially Fitted Van"
+36	"Livestock Carrier"
+37	Float
+38	"Flat Lorry"
+39	"Dropside Lorry"
+40	Tipper
+41	"Low Loader"
+43	"Breakdown Truck"
+44	Tanker
+45	"Solid Bulk Carrier"
+46	"Concrete Mixer"
+47	"Mobile Plant"
+48	"Car Transporter"
+49	"Refuse Disposal"
+51	"Front Dumper"
+52	"Skip Loader"
+53	"Special Mobile Unit"
+54	"Light 4X4 Utility"
+55	"Airport Support Unit"
+56	"S/D Bus/Coach (Single Deck)"
+57	"D/D Bus/Coach (Double Deck)"
+58	"Standee Bus"
+59	"H/D Bus/Coach (Half Deck)"
+60	Minibus
+61	Curtain-sided
+62	"Tourer (for information only, no longer used)"
+63	"Agric. Tractor "
+64	"Combine Harvester"
+65	"Root Crop Harvester"
+66	"Forage Harvester"
+67	Windrower
+68	Sprayer
+69	Viner/Picker
+70	"Agric. Machine "
+71	"Mowing Machine "
+72	Moped
+73	"Road Surfacer"
+74	"Road Testing"
+75	Tractor
+76	Ambulance
+77	"Fire Engine"
+78	Bulldozer
+79	"Road Stripper"
+80	"Tar Sprayer"
+81	"Line Painter"
+82	Roller
+83	"Street Cleansing"
+84	"Gritting Vehicle "
+85	"Tower Wagon"
+86	"Mobile Crane"
+87	"Lift Truck"
+88	"Snow Plough"
+89	"Loading Shovel"
+90	"Rear Digger"
+91	"Station Tractor"
+92	"Tractor Excavator"
+93	"Hydraulic Excavator"
+94	"Cesspool Emptier"
+95	"Skeletal Vehicle"
+96	"MPV (Multi Purpose Vehicle)"
+97	Quadricycle
+A1	"Tel. Material Handler"
+A2	"Mobile Pump"
+08	"Not provided"
+15	"Not provided"
+16	"Not provided"
+17	"Not provided"
+20	"Not provided"
+29	"Not provided"
+35	"Not provided"
+42	"Not provided"
+50	"Not provided"
+98	"Not provided"
+99	"Not provided"
+0	"Not provided"
