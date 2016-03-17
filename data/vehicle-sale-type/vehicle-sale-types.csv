@@ -1,0 +1,22 @@
+vehicle-sale-type	name	description
+T	private motability	vehicle sold under the motability scheme and financed privately or with hire purchase
+P	private other	vehicle sold to a private individual and is not a private motability or captive / private registration
+L	Captive / private	vehicle sold under a motor manufacturer / franchise importer employee purchase plan
+J	business leasing / contract hire	vehicle sold to / registered for a business that operates between 1 and 24 vehicles and that business will be leasing or contract hiring the vehicle to its customers
+Y	business daily rental 	vehicle sold to / registered for a business that operates between 1 and 24 vehicles and that business will rent out the vehicle at a daily rate to its customers
+B	business other	vehicle sold to / registered for a small business that operates between 1 and 24 vehicles which is not covered by the daily rental, leasing / contract hire or motor trade demonstrator definitions
+K	fleet leasing / contract hire	vehicle sold to / registered for a company that operates a fleet of 25 vehicles or more and that company will rent out the vehicle at a daily rate to its customers
+Z	fleet daily rental 	vehicle sold to / registered for a company that operates a fleet of 25 vehicles or more and that company will be leasing or contract hiring vehicle to its customer
+M	fleet demonstrator	vehicle registered as a customer demonstrator by a motor trade dealer, or agent who operates a fleet of 25 vehicles or more
+D	business demonstrator	vehicle registered as a customer demonstrator by a motor trade dealer, or agent who operates a fleet of between 1 and 24 vehicles
+W	fleet motability	vehicle registered registered under the motability scheme to be operated against the contract hire plan
+F	fleet other	vehicle sold to / registered for a company that operates a fleet of 25 vehicles or more and is not covered by the leasing / contract hire, daily rental, dealer demonstrator or motability definitions
+G	manufacturer / importer demonstrator	vehicle registered by a motor manufacturer / franchised importer to be used on their demonstrator fleet
+C	manufacturer / importer demonstrator other	vehicle registered by a motor manufacturer / franchised importer for use as an executive job / pool car or for a management car plan scheme or for lease directly to their employees
+1	private british forces germany	vehicle registered for export for british forces germany
+2	private british forces non-eu	vehicle registered for export for british forces non-eu
+4	business diplomatic / consular	vehicle registered for diplomatic / consular
+6	private foreign servicemen	vehicle registered for use by foreign servicemen
+7	private personal export non-eu	vehicle registered for export for personal export non-eu
+8	british forces eu	vehicle registered for export for british forces eu
+9	private personal export eu	vehicle registered for export for personal export eu
