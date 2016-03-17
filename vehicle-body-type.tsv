@@ -1,0 +1,145 @@
+vecle-body	name	vehicle-category
+01	2-Door Saloon	1
+02	4-Door Saloon	1
+03	Saloon (for information only, no longer used)	1
+04	Convertible	1
+05	Coupe	1
+06	Estate	1
+11	Hearse	1
+12	Limousine	1
+13	3-Door Hatchback	1
+14	5-Door Hatchback	1
+21	Sports	1
+62	Tourer (for information only, no longer used)	1
+96	MPV (Multi-Purpose Vehicle)	1
+22	Panel Van	2
+26	Pick-Up	2
+27	Motor Home/Caravan	2
+32	Insulated Van	2
+54	Light 4X4 Utility	2
+97	Quadricycles	3
+09	Tricycle	4
+10	Goods Tricycle	4
+18	Motorcycle	4
+19	Motorcycle Combination	4
+72	Moped	4
+22	Panel Van	5
+23	Box Van	5
+24	Car-Derived Van	5
+26	Pick-Up	5
+27	Motor Home/Caravan	5
+28	Van/Side Windows	5
+31	Luton Van	5
+32	Insulated Van	5
+33	Glass Carrier	5
+34	Specially Fitted Van	5
+36	Livestock Carrier	5
+37	Float	5
+38	Flat Lorry	5
+39	Dropside Lorry	5
+40	Tipper	5
+43	Breakdown Truck	5
+48	Car Transporter	5
+49	Refuse Disposal	5
+52	Skip Loader	5
+53	Special Mobile Unit	5
+55	Airport Support Unit	5
+60	Minibus	5
+61	Curtain-sided	5
+76	Ambulance	5
+77	Fire Engine	5
+81	Line Painter	5
+83	Street Cleansing	5
+85	Tower Wagon	5
+87	Lift Truck	5
+22	Panel Van	6
+23	Box Van	6
+26	Pick-Up	6
+27	Motor Home/Caravan	6
+28	Van/Side Windows	6
+30	Pantechnicon	6
+31	Luton Van	6
+32	Insulated Van	6
+33	Glass Carrier	6
+34	Specially Fitted Van	6
+36	Livestock Carrier	6
+38	Flat Lorry	6
+39	Dropside Lorry	6
+40	Tipper	6
+41	Low Loader	6
+43	Breakdown Truck	6
+44	Tanker	6
+45	Solid Bulk Carrier	6
+46	Concrete Mixer	6
+47	Mobile Plant	6
+48	Car Transporter	6
+49	Refuse Disposal	6
+52	Skip Loader	6
+53	Special Mobile Unit	6
+55	Airport Support	6
+56	S/D Bus/Coach (Single Deck)	6
+57	D/D Bus/Coach (Double Deck)	6
+58	Standee Bus	6
+59	H/D Bus/Coach (Half Deck)	6
+60	Minibus	6
+61	Curtain-Sided	6
+74	Road Testing	6
+76	Ambulance	6
+77	Fire Engine	6
+81	Line Painter	6
+83	Street Cleansing	6
+84	Gritting Vehicle	6
+85	Tower Wagon	6
+88	Snow Plough	6
+94	Cesspool Emptier	6
+27	Motor Home/Caravan	7
+36	Livestock Carrier	7
+38	Flat Lorry	7
+39	Dropside Lorry	7
+41	Low Loader	7
+43	Breakdown Truck	7
+44	Tanker	7
+45	Solid Bulk Carrier	7
+46	Concrete Mixer	7
+47	Mobile Plant	7
+48	Car Transporter	7
+53	Special Mobile Unit	7
+55	Airport Support	7
+61	Curtain-Sided	7
+74	Road Testing	7
+75	Tractor	7
+85	Tower Wagon	7
+95	Skeletal Vehicle	7
+07	Taxi	8
+56	S/D Bus/Coach (Single Deck)	8
+57	D/D Bus/Coach (Double Deck)	8
+58	Standee Bus	8
+59	H/D Bus/Coach (Half Deck)	8
+60	Minibus	8
+36	Livestock Carrier	9
+63	Agric. Tractor	9
+64	Combine Harvester	9
+65	Root Crop Harvester	9
+66	Forage Harvester	9
+67	Windrower	9
+68	Sprayer	9
+69	Viner/Picker	9
+70	Agric. Machine	9
+71	Mowing Machine	9
+A1	Tel. Material Handler	9
+51	Front Dumper	10
+73	Road Surfacer	10
+74	Road Testing	10
+78	Bulldozer	10
+79	Road Stripper	10
+80	Tar Sprayer	10
+81	Line Painter	10
+82	Roller	10
+86	Mobile Crane	10
+87	Lift Truck	10
+89	Loading Shovel	10
+90	Rear Digger	10
+91	Station Tractor	10
+92	Tractor Excavator	10
+93	Hydraulic Excavator	10
+A2	Mobile Pump	10
