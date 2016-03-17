@@ -1,0 +1,27 @@
+vehicle-industry	abbreviation	description
+A	Agri	Agricultural/Forestry/Fishing
+B	Mining	Mining & Quarrying
+C	Food	Food/Drink/Tobacco
+D	Coal	Coal/Petroleum
+E	Chem	Chemicals
+F	Metal	Metals
+G	Engin	Mechanical/Instruments/Electrical Engineering
+H	Ship	Shipping/Marine
+I	Manuf	Vehicle Manufacturing
+J	Cloth	Clothing/Footwear
+K	Bricks	Bricks/Ceramics/Glass/Cement
+L	Timber	Timber/Furniture
+M	Paper	Paper/Printing/Publishing
+N	Constr	Construction
+O	Utilit	Gas/Electricity/Water
+P	Tcom	Transport-Telecommunications and Postal
+Q	Haulage	Transport-Long Distance Haulage
+R	Distrib	Transport-Local Distribution
+S	Banking	Insurance/Banking/Finance/Business
+T	Educ	Professional/Scientific/Education
+U	Defence	Public Admin/Defence
+V	Hotels	Hotel/Restaurants
+W	Health	Health/Social Work
+X	Lease	Equipment Leasing/Rental and Contract Hire
+Y	Private	Private Households
+Z	Unspec	Other (Miscellaneous)
