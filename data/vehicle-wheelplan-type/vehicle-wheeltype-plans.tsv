@@ -1,4 +1,4 @@
-code	name	description
+vehicle-wheeltype-plan	name	text
 A	2-wheel	2 wheels 
 B	3-wheel	3 wheels (Tricycle)
 C	2 axle rigid body	2 “axle” rigid chassis/body (This applies to all 4-wheeled cars, taxis & light commercials)

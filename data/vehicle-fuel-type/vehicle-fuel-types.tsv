@@ -1,0 +1,15 @@
+vehicle-fuel-type	name	vehicle-propulsion
+PE	Petrol	1
+DI	Diesel	2
+EL	Electric	3
+ST	Steam	4
+LP	LPG	6
+CN	CNG	
+LN	LNG	
+FC	Fuel Cells	A
+OT	Other	Z
+GA	Gas	5
+GB	Gas Bi-Fuel	7
+HY	Hybrid Electric (Clean)	8
+GD	Gas Diesel	9
+ED	Electric Diesel	B
